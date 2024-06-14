@@ -2,6 +2,8 @@
 
 This repository provides a Dockerfile to easily build and run the [123elf](https://github.com/taviso/123elf) project, which emulates the classic Lotus 1-2-3 spreadsheet application.
 
+![Lotus 1-2-3 for Linux](https://lock.cmpxchg8b.com/img/123linux.png)
+
 ## About
 This Dockerfile makes it simple to start and test the 123elf project without needing to manually install dependencies and build the project yourself.
 
